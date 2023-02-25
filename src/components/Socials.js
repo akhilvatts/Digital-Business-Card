@@ -20,7 +20,7 @@ export default function Socials() {
                     <i class="social-logo fa fa-twitter-square" aria-hidden="true"></i>
                 </a>
                 <a className='social' href="https://instagram.com/akhil_vatts" target="_blank" rel="noreferrer">
-                    <i class="social-logo fa fa-instagram-square" aria-hidden="true"></i>
+                    <i class="social-logo fa fa-instagram" aria-hidden="true"></i>
                 </a>
             </div>
         </div>
