@@ -13,14 +13,14 @@ export default function Socials() {
                 <a className="social" href="https://www.linkedin.com/in/akhil-vatts-sharma/" target="_blank" rel="noreferrer">
                     <i class="social-logo fa fa-linkedin-square" aria-hidden="true"></i>
                 </a>
-                <a className='social' href="https://topmate.io/akhilsharma" target="_blank" rel="noreferrer">
-                    <i class="social-logo fa-square-odnoklassniki" aria-hidden="true"></i>
-                </a>
                 <a className='social' href="https://twitter.com/akhilsharma_" target="_blank" rel="noreferrer">
                     <i class="social-logo fa fa-twitter-square" aria-hidden="true"></i>
                 </a>
                 <a className='social' href="https://github.com/akhilvatts" target="_blank" rel="noreferrer">
-                    <i class="social-logo fa fa-square-github" aria-hidden="true"></i>
+                    <i class="social-logo fa fa-github-square" aria-hidden="true"></i>
+                </a>
+                <a className='social' href="https://topmate.io/akhilsharma" target="_blank" rel="noreferrer">
+                    <i class="social-logo fa-square-tumblr" aria-hidden="true"></i>
                 </a>
                 <a className='social' href="https://instagram.com/akhil_vatts" target="_blank" rel="noreferrer">
                     <i class="social-logo fa fa-square-instagram" aria-hidden="true"></i>
