@@ -1,5 +1,5 @@
 import React from 'react';
-import akhilsharma from "../images/akhilsharma.jpg"
+import akhilsharma from "../images/akhilsharma.jpeg"
 
 export default function Info() {
     return (
