@@ -8,7 +8,7 @@ export default function Info() {
             <div className='info-container'>
                 <h1 className="name">Akhil Sharma</h1>
                 <h2 className="job">Senior DevOps Engineer</h2>
-                <a className="website" href="https://akhilsharma.netlify.app/" target="_blank" rel="noreferrer">akhilsharma.netlify.app</a>
+                <a className="website" href="https://akhilsharma.work/" target="_blank" rel="noreferrer">akhilsharma.work</a>
                 <a className="button-email" href="mailto:akhil.sharma.vatts@gmail.com" target="_blank" rel="noreferrer">
                     <i class="email-logo fa fa-envelope" aria-hidden="true"></i>
                     Email
