@@ -20,10 +20,10 @@ export default function Socials() {
                     <i class="social-logo fa fa-github-square" aria-hidden="true"></i>
                 </a>
                 <a className='social' href="https://topmate.io/akhilsharma" target="_blank" rel="noreferrer">
-                    <i class="social-logo fa-square-pied-piper" aria-hidden="true"></i>
+                    <i class="social-logo fa-intercom" aria-hidden="true"></i>
                 </a>
                 <a className='social' href="https://instagram.com/akhil_vatts" target="_blank" rel="noreferrer">
-                    <i class="social-logo fa fa-square-instagram" aria-hidden="true"></i>
+                    <i class="social-logo fa fa-instagram" aria-hidden="true"></i>
                 </a>
             </div>
         </div>
